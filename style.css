@@ -831,6 +831,10 @@ td {
     .up-btn {
         width: 8%;
     }
+
+    .back {
+        top: 2%;
+    }
 }
 .container::-webkit-scrollbar {
     width: 16px;
